@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating a common off-by-one error in array access. The error occurs because the loop condition in the first for loop iterates one element beyond the valid index range of the array.  The Bug.java file shows the erroneous code. The BugSolution.java file provides a corrected version.
